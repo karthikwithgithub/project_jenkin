@@ -8,3 +8,5 @@
 
     - name: enable war
       command: /home/kvidya/karthik/wildfly-9.0.1.Final/bin/jboss-cli.sh --connect "deploy --name="{{ app_name }}""
+
+
